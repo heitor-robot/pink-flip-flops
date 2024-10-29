@@ -1,1 +1,1 @@
-asda
+let idade = 18
